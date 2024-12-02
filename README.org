@@ -1,0 +1,16 @@
+* MQTT-JSON Filter
+
+Filtering tool for JSON messages. Useful for testing/building JSON MQTT applications. This can reduce tiresome.
+
+** Featues
+	+ Automatic formating structure
+	+ Coloured representation for messages (such as boolean)
+	+ Diff view for multiple clients/topics
+
+** Build Instructions:
+	+ Clone repo
+	  #+begin_src bash
+	  git clone
+	  #+end_src
+
+	+ Build
